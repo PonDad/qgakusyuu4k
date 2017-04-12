@@ -4,6 +4,6 @@
 
 を少し改変しました。
 
-![](https://github.com/PonDad/qgakusyuu4k/blob/master/test_catch.py)
+![](https://github.com/PonDad/qgakusyuu4k/blob/master/catch.gif)
 
 ![](https://github.com/PonDad/qgakusyuu4k/blob/master/snake.gif)
